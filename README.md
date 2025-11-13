@@ -1,3 +1,6 @@
+<img width="737" height="638" alt="grafik" src="https://github.com/user-attachments/assets/c8ea5d30-0c08-4bac-8d93-ce1fbccd6098" /> 
+
+
 ANLEITUNG ZUR AUSFÜHRUNG DES JAVA-PROGRAMMS "ZAHLENSYSTEME_RECHNER"
 
 ====================================
